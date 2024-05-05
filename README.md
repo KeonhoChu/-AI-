@@ -14,7 +14,7 @@ AI 헤리티지 공모전은 AI 기술을 활용하여 우리의 국가유산을
 # 2024년 디지털유산페스타 AI 헤리티지 공모전 작품설명서
 ## 언어
 1. [한국어 버전](#2024년-디지털유산페스타-ai-헤리티지-공모전-작품설명서)
-2. [영어 버전](#2024-digital-heritage-festa-ai-heritage-competition-entry-description)
+2. [English version](#2024-digital-heritage-festa-ai-heritage-competition-entry-description)
 
 ## 목차
 1. [작품 기획 의도](#1-작품-기획-의도)
